@@ -1,11 +1,11 @@
 # Hello, I'm KARMA
 <a href="https://www.linkedin.com/in/karma-tshulthrim-81a974126/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
- I am a passionate technologist who loves exploring, buiilding, and learning new things. This is where I document my growth, experiments, and projects - a mix of professional work, personal tinkering, and continuous learning. 
+ I am a passionate technologist who loves exploring, building, and learning new things. This is where I document my growth, experiments, and projects - a mix of professional work, personal tinkering, and continuous learning. 
 
 ## Objective
 
-To document my learning journey and deep dive into cybersecurity research with the goal of becoming a skilled SOC analyst. I am exploring how technology, data, and AI can be used to detect, analyse, and respond to evolving cyber threats.
+To document my learning journey and deep dive into technology.
 
 ## Tools
 
